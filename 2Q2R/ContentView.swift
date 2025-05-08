@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  GoogleSignInFirebaseSwiftUI
 //
-//  Created by Sheehan Munim on 6/9/24.
+//
 //
 
 import SwiftUI
